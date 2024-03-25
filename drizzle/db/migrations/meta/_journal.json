@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711381342632,
+      "tag": "0000_left_alice",
+      "breakpoints": true
+    }
+  ]
+}
